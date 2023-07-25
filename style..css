@@ -1,0 +1,63 @@
+.div-class{
+    display: flex;
+    justify-content: end;
+    padding-right: ;
+}
+.div-class div{
+    margin: 20px;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    list-style: none;   
+    display: flex;
+}
+ul li{
+    display: flex;
+    margin: 20px;
+}
+.spi{
+    height: 20px;
+    background-color: gray;
+    border-radius: 5px;
+}
+.pet{
+    height: 23px;
+    background-color: gray;
+    border-radius: 5px;
+}
+.yow{
+    height: 20px;
+    background-color: gray;
+    border-radius: 5px;
+}
+.gho{
+    height: 20px;
+    background-color: gray;
+    border-radius: 5px;
+}
+.fil{
+   height: 20PX;
+   background-color: gray;
+   border-radius: 6px;
+}
+.aks{
+    height: 20px;
+    background-color: gray;
+    border-radius: 5px;
+
+}
+.a{
+    height: 15px;
+    background-color: yellow;
+    border-radius: 6px;
+    color: white;
+}
+.tix{
+    color: aqua;
+    height: 20px;
+}
+.new{
+    margin: 60px;
+}
